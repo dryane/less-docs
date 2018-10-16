@@ -19,6 +19,7 @@ title: Ports
 * [BW Less CSS](http://wordpress.org/extend/plugins/bw-less-css/) (WordPress Plugin)
 * [less.php](http://lessphp.gpeasy.com/)
 * [ILess](https://github.com/mishal/iless)
+* [Less.js In Wordpress](https://github.com/dryane/Less.js-In-Wordpress)
 
 ### Python
 * [Python Less Compiler](https://github.com/lesscpy/lesscpy)
